@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![schevenin's github stats](https://github-readme-stats.vercel.app/api?username=schevenin)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schevenin&layout=compact)
 
 
 <!--
