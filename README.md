@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![schevenin's github stats](https://github-readme-stats.vercel.app/api?username=schevenin)]
+![schevenin's github stats](https://github-readme-stats.vercel.app/api?username=schevenin)
 
 
 <!--
